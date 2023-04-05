@@ -1,2 +1,2 @@
-# aicc23_track1
+# aicc23
 Code for AIC Challenge Track 1 will soon be released.
